@@ -72,11 +72,11 @@ echo "<script>alert('Invalid Details');</script>";
 <form role="form" method="post">
 
 <div class="form-group">
-<label>Enter Usernamessss</label>
+<label>Enter Username</label>
 <input class="form-control" type="text" name="username" autocomplete="off" required />
 </div>
 <div class="form-group">
-<label>Passwordss</label>
+<label>Password</label>
 <input class="form-control" type="password" name="password" autocomplete="off" required />
 </div>
  <div class="form-group">
@@ -84,7 +84,7 @@ echo "<script>alert('Invalid Details');</script>";
 <input type="text"  name="vercode" maxlength="5" autocomplete="off" required style="width: 150px; height: 25px;" />&nbsp;<img src="captcha.php">
 </div>  
 
- <button type="submit" name="login" class="btn btn-info" disabled>LOGIN </button>
+ <button type="submit" name="login" class="btn btn-info">LOGIN </button>
 </form>
  </div>
 </div>
