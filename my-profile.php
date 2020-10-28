@@ -148,7 +148,7 @@ foreach($results as $result)
 </div>
 <?php }} ?>
                               
-<button type="submit" name="update" class="btn btn-primary" id="submit">Update Now </button>
+<button type="submit" name="update" class="btn btn-primary" id="submit" disabled>Update Now </button>
 
                                     </form>
                             </div>
