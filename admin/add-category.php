@@ -89,7 +89,7 @@ Category Info
 </div>
 
 </div>
-<button type="submit" name="create" class="btn btn-info">Create </button>
+<button type="submit" name="create" class="btn btn-info" disabled>Create </button>
 
                                     </form>
                             </div>
