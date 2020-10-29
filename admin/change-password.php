@@ -106,17 +106,17 @@ Change Password
 
 <div class="form-group">
 <label>Current Password</label>
-<input class="form-control" type="password" name="password" autocomplete="off" required  />
+<input class="form-control" type="password" name="password" autocomplete="off" required  disabled/>
 </div>
 
 <div class="form-group">
 <label>Enter Password</label>
-<input class="form-control" type="password" name="newpassword" autocomplete="off" required  />
+<input class="form-control" type="password" name="newpassword" autocomplete="off" required  disabled/>
 </div>
 
 <div class="form-group">
 <label>Confirm Password </label>
-<input class="form-control"  type="password" name="confirmpassword" autocomplete="off" required  />
+<input class="form-control"  type="password" name="confirmpassword" autocomplete="off" required  disabled/>
 </div>
 
  <button type="submit" name="change" class="btn btn-info">Change </button> 
