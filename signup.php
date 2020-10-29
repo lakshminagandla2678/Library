@@ -142,7 +142,7 @@ error:function (){}
 <label>Verification code : </label>
 <input type="text"  name="vercode" maxlength="5" autocomplete="off" required style="width: 150px; height: 25px;" />&nbsp;<img src="captcha.php">
 </div>                                
-<button type="submit" name="signup" class="btn btn-danger" id="submit">Register Now </button>
+<button type="submit" name="signup" class="btn btn-danger" id="submit" disabled>Register Now </button>
 
                                     </form>
                             </div>
